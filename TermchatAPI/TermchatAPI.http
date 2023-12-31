@@ -1,0 +1,6 @@
+@TermchatAPI_HostAddress = http://localhost:5215
+
+GET {{TermchatAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
